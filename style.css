@@ -66,6 +66,7 @@ body{
     0 0 0 18px #111;
     margin-top: 15px;
     overflow: hidden;
+    transition: transform 5s ease-in-out;
 }
 .container .wheel .number
 {
